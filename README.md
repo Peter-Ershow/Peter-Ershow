@@ -1,16 +1,8 @@
-## Hi there 👋
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Ershow&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<h1 align="center">Peter Ershow</h1>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314pvamepadbp5e5pkrt4bivaboy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=314pvamepadbp5e5pkrt4bivaboy&redirect=true)
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Peter-Ershow&count_private=true&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Ershow&theme=dracula&langs_count=15&layout=compact&hide=php" />
-  
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Peter-Ershow"/></div>
-</div>
-
-
-
+[![Peter's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peter-Ershow)](https://github.com/Peter-Ershow/github-readme-stats)
 
 <!--
 **Peter-Ershow/Peter-Ershow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
