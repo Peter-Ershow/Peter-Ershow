@@ -1,5 +1,5 @@
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img height=400 align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gjiin2u3o5rz53h2szchj7duza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  <img height=400 align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gjiin2u3o5rz53h2szchj7duza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Peter-Ershow&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical&count_private=true" />
